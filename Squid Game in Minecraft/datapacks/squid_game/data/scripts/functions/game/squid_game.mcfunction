@@ -1,0 +1,1 @@
+execute if score alive game_track matches 1 run function scripts:game/squid_game/finish

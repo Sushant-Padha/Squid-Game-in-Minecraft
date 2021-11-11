@@ -1,0 +1,1 @@
+execute as @a[scores={dalgona_step=..999}] run tag @s add lost

@@ -1,0 +1,1 @@
+execute as @a[scores={marbles_team=0}] run tag @s add lost

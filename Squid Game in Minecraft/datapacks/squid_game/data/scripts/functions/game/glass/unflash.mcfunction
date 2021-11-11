@@ -1,0 +1,1 @@
+execute as @e[tag=glass] at @s run fill ~2 ~-1 ~2 ~ ~-1 ~ glass

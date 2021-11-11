@@ -1,0 +1,1 @@
+execute as @a at @s run playsound minecraft:dan_henig_empire_seasons master @s ~ ~ ~ 9999
